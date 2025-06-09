@@ -1,12 +1,12 @@
-# 🟨 Skip Hire UI
+# Skip Hire UI
 
 A modern and responsive skip hire booking interface built using **React**, **JavaScript**, **Tailwind CSS**, and **Vite**. This application provides an interactive UI to browse, select, and proceed with skip bookings using data fetched from a remote source.
 
 ---
 
-## 📽️ Demo Video
+## 📽️ Desktop View
 
-[![Click to watch the demo](backend/public/userProfiles/demoPreview.png)](https://drive.google.com/file/d/1ryl6mme42w7gkSnQ041w7Vs6QtHliRBh/view?usp=sharing)
+[![Click to watch the demo](public/images/desktopPreview.png)](https://drive.google.com/file/d/1ryl6mme42w7gkSnQ041w7Vs6QtHliRBh/view?usp=sharing)
 
 ---
 
@@ -23,7 +23,7 @@ A modern and responsive skip hire booking interface built using **React**, **Jav
     - It expands and centers in the viewport  
     - `Select` button is replaced with `Back` and `Continue` buttons  
     - `Back` navigates to the previous page  
-    - `Continue` navigates to the next page (`Waste Type`)
+    - `Continue` navigates to the next page (`Permit Check`)
 
 - **Sidebar Navigation**  
   - Sidebar displays navigation links  
@@ -60,14 +60,27 @@ A modern and responsive skip hire booking interface built using **React**, **Jav
 ## 🔗 Data Source
 
 All skip details are dynamically fetched from a remote data endpoint:  
-[https://devskipgo.s3.eu-west-2.amazonaws.com/skip_data.json](https://devskipgo.s3.eu-west-2.amazonaws.com/skip_data.json)
+[https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft](https://app.wewantwaste.co.uk/api/skips/by-location?postcode=NR32&area=Lowestoft)
 
 ---
 
-## 🚧 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/skip-hire-ui.git
 cd skip-hire-ui
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
