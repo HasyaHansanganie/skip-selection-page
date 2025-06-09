@@ -14,24 +14,7 @@ Click here to watch the demonstration of the desktop view
 
 ## 📱 Mobile View Preview
 
-<p align="center">
-  <img src="public/images/mobileView.png" alt="Mobile View" width="200" />
-  <br />
-  <strong>Mobile View</strong>
-</p>
-
-<p align="center">
-  <img src="public/images/skipSelected.png" alt="Skip Selected" width="200" />
-  <br />
-  <strong>Skip Selected</strong>
-</p>
-
-<p align="center">
-  <img src="public/images/sidebarOpened.png" alt="Sidebar Opened" width="200" />
-  <br />
-  <strong>Sidebar opened using toggle button</strong><br />
-  <em>(can be closed via close icon)</em>
-</p>
+<img src="public/images/mobileView.png" alt="Mobile View"  />
 
 ---
 
