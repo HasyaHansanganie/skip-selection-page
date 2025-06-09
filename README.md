@@ -6,7 +6,7 @@ A modern and responsive skip hire booking interface built using **React**, **Jav
 
 ## 📽️ Desktop View
 
-[![Click to watch the demo](public/images/desktopPreview.png)](https://drive.google.com/file/d/1CY61hgmEj9X1x_x9Ck9dh6BQ0kaue0nv/view?usp=sharing)
+[![Click to watch the demo](public/images/desktopPreview.jpg)](https://drive.google.com/file/d/1CY61hgmEj9X1x_x9Ck9dh6BQ0kaue0nv/view?usp=sharing)
 
 ---
 
