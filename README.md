@@ -6,9 +6,19 @@ A modern and responsive skip hire booking interface built using **React**, **Jav
 
 ## 📽️ Desktop View
 
+Click here to watch the demonstration of the desktop view
+
 <a href="https://drive.google.com/file/d/1CY61hgmEj9X1x_x9Ck9dh6BQ0kaue0nv/view?usp=sharing" target="_blank">
   <img src="public/images/desktopPreview.jpg" alt="Click here to watch the demo" width="500">
 </a>
+
+## 📱 Mobile View
+
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="public/images/mobileView.png" alt="Mobile View 1" width="200" />
+  <img src="public/images/skipSelected.png" alt="Mobile View 2" width="200" />
+  <img src="public/images/sidebarOpened.png" alt="Mobile View 3" width="200" />
+</div>
 ---
 
 ## 🚀 Key Features
