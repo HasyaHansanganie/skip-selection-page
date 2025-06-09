@@ -14,7 +14,7 @@ Click here to watch the demonstration of the desktop view
 
 ## 📱 Mobile View Preview
 
-<img src="public/images/mobileView.jpg" alt="Mobile View"  />
+<img src="public/images/mobileView.jpg" alt="Mobile View" width="500" />
 
 ---
 
