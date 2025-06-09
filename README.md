@@ -12,7 +12,7 @@ Click here to watch the demonstration of the desktop view
   <img src="public/images/desktopPreview.jpg" alt="Click here to watch the demo" width="500">
 </a>
 
-## 📱 Mobile View Preview
+## 📱 Mobile View
 
 <img src="public/images/mobileView.jpg" alt="Mobile View" width="700" />
 
