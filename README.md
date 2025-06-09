@@ -77,7 +77,7 @@ All skip details are dynamically fetched from a remote data endpoint:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/skip-hire-ui.git
+git clone https://github.com/HasyaHansanganie/skip-selection-page.git
 cd skip-hire-ui
 ```
 
